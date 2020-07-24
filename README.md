@@ -11,3 +11,7 @@ Run the virtual environment and type the commands given below :
 2) manage.py runserver     (This command starts the server )
 
 Open your browser and type the address -  http://localhost:8000/welcome/
+
+Used Sessions . To check working of sessions :
+  1) Try going on this address http://localhost:8000/show/ without logging in. It will redirect you to the login page as you have not logged in.
+  2) After logging in . Go on http://localhost:8000/welcome/ and click on Login . It will redirect you to http://localhost:8000/show/ as the Login information is aready saved.
