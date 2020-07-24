@@ -2,6 +2,8 @@
 A Student Data Management Web App created using Django Framework for management of Students. It performs CRUD operations on data. 
 
 I have used Python , Django , Html and CSS for the app .
+
+Make sure you have Installed Python and Django .
 To run the app Download the zip file and unzip it . 
 Open the terminal get into the directory where you have saved the app.
 
