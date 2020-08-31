@@ -1,7 +1,7 @@
 # Django-Project-Student-Data-Management-App
 A Student Data Management Web App created using Django Framework for management of Students. It performs CRUD operations on data. 
 
-I have used Python , Django , Html and CSS for the app .The database used in sqlite3 .
+I have used Python , Django , Html and CSS for the app .The database used is sqlite3 .
 
 Make sure you have Installed Python and Django .
 To run the app Download the zip file and unzip it . 
